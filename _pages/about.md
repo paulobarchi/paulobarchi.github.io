@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
-Overview
-======
+#Overview
+#======
 - PhD Research Fellow at [Brandeis University](https://www.brandeis.edu/)
 - PhD Candidate in Applied Computing at National Institute for Space Research ([INPE-Brazil](http://www.inpe.br/))
 - Member of Dark Energy Survey (DES) collaboration.
