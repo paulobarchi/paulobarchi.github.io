@@ -13,7 +13,7 @@ redirect_from:
 - Member of Dark Energy Survey (DES) collaboration.
 - Currently working with Computer Science / Machine Learning applied to Astrophysics.
 - Master's and bachelor's degrees in Computer Science / Machine Learning.
-- Experienced in industry as System Analyst.
+
 
 General Research Interest
 ======
