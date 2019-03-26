@@ -86,9 +86,9 @@ author:
   location         : "Waltham, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #here! #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=OVvYtRUAAAAJ&hl=en
   email            : paulobarchi@gmail.com
-  researchgate     : #here! # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : https://www.researchgate.net/profile/Paulo_Barchi2
   uri              :
   bitbucket        :
   codepen          :
@@ -101,8 +101,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : #here!
-  orcid            : #here! #"http://orcid.org/yourorcidurl" 
+  linkedin         : www.linkedin.com/in/paulobarchi
+  orcid            : https://orcid.org/0000-0002-7657-9595
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
