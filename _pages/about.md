@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About me (TL;DR)
+======
 - PhD Research Fellow at [Brandeis University](https://www.brandeis.edu/)
 - PhD Candidate in Applied Computing at National Institute for Space Research ([INPE-Brazil](http://www.inpe.br/))
 - Currently working with Computer Science / Machine Learning applied to Astrophysics.
