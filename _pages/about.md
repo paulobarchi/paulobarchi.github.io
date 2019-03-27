@@ -28,6 +28,6 @@ Current Projects
 - Machine and Deep Learning Applied to Galaxy Morphology
   - Main investigation of my PhD ([arXiv](https://arxiv.org/abs/1901.07047)).
 - Gravitational Waves Detection
-  - Debugging and documenting the trasient detection system for gravitational waves.
+  - Documentation, minor developments and improvements in the trasient detection system for gravitational waves.
 - Galaxy Clusters - Membership Assignment and Characterization
-  - Improving the usability of the cluster finding and characterization system.
+  - Documentation, minor developments and improvements in the cluster finding and characterization system.
