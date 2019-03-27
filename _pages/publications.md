@@ -14,3 +14,24 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+* <p> P. H. Barchi, R. R. de Carvalho, R. R. Rosa, R. Sautter, M. Soares-Santos, B. A. D. Marques, E. Clua. Machine and Deep Learning Applied to Galaxy Morphology - A Complete Classification Catalog. 2019, Submitted to MNRAS. [ [arXiv](https://arxiv.org/abs/1901.07047) ].
+<!--   
+R. R. Rosa, R. R. de Carvalho, R. Sautter, P. H. Barchi, D. H. Stalder, T. C. Moura, S. B.
+Rembold, D. R. F. Morell, N. C. Ferreira. Gradient Pattern Analysis Applied to Galaxy
+Morphology. MNRASL, 2018, v. 477, n. 1, p. L101-105, DOI: 10.1093/mnrasl/sly054.
+R. Sautter, P. H. Barchi. pyGHS: Computing Geometric Histogram Separation in
+Binomial Proportion Patterns. JCIS, 2017, v. 8, issue 1, paper 121. DOI:
+10.6062/jcis.2017.08.01.0121.
+P. H. Barchi F. G. da Costa, R. Sautter, T. C. Moura, D. H. Stalder, R. R. Rosa, R. R. de
+Carvalho. Improving Galaxy Morphology with Machine Learning. JCIS, 2016, v. 7, issue
+3, paper 114. DOI: 10.6062/jcis.2016.07.03.0114.
+P. H. Barchi, E. R. Hruscka Jr. Two different approaches to Ontology Extension Through
+Machine Reading. JNIC, 2015, v. 03, p. 078-087.
+Conference
+Proceedings
+P. H. Barchi, F. G. da Costa, R. Sautter, T. C. Moura, D. H. Stalder, R. R. Rosa, R. R.
+de Carvalho. Improving Galaxy Morphology with Machine Learning. Bulletin of the
+Brazilian Astronomical Society. 2018, v. 30, n. 1, p. 180-181. ISSN: 0101-3440.
+P. H. Barchi, E. R. Hruscka Jr. Never-Ending Ontology Extension Through Machine
+Reading. ICHIS, 2014, page 266. DOI: 10.1109/HIS.2014.7086210. -->
