@@ -5,12 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-* <p> <b>P. H. Barchi</b>, R. R. de Carvalho, R. R. Rosa, R. Sautter, M. Soares-Santos, B. A. D. Marques, E. Clua. <i>Machine and Deep Learning Applied to Galaxy Morphology - A Complete Classification Catalog</i>. 2019, Submitted to MNRAS. [ <a href="https://arxiv.org/abs/1901.07047"><font color="75B9D4">arXiv</font></a> ]
+<p> <b>P. H. Barchi</b>, R. R. de Carvalho, R. R. Rosa, R. Sautter, M. Soares-Santos, B. A. D. Marques, E. Clua. <i>Machine and Deep Learning Applied to Galaxy Morphology - A Complete Classification Catalog</i>. 2019, Submitted to MNRAS. <a href="https://arxiv.org/abs/1901.07047"><font color="75B9D4">arXiv</font></a>
+
+</br>
+
+<p> R. R. Rosa, R. R. de Carvalho, R. Sautter, <b>P. H. Barchi</b>, D. H. Stalder, T. C. Moura, S. B.
+Rembold, D. R. F. Morell, N. C. Ferreira. <i>Gradient Pattern Analysis Applied to Galaxy
+Morphology</i>. 2018, MNRASL, v. 477, n. 1, p. L101-105, <a href="https://academic.oup.com/mnrasl/article/477/1/L101/4961142"><font color="75B9D4">DOI: 10.1093/mnrasl/sly054</font></a>.
+
 
 <!--   
-R. R. Rosa, R. R. de Carvalho, R. Sautter, P. H. Barchi, D. H. Stalder, T. C. Moura, S. B.
-Rembold, D. R. F. Morell, N. C. Ferreira. Gradient Pattern Analysis Applied to Galaxy
-Morphology. MNRASL, 2018, v. 477, n. 1, p. L101-105, DOI: 10.1093/mnrasl/sly054.
 R. Sautter, P. H. Barchi. pyGHS: Computing Geometric Histogram Separation in
 Binomial Proportion Patterns. JCIS, 2017, v. 8, issue 1, paper 121. DOI:
 10.6062/jcis.2017.08.01.0121.
