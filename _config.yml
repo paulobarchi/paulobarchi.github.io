@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Paulo H. Barchi"
   avatar           : "INPE-drums.jpg"
-  bio              : "PhD Research Fellow @ Brandeis University\nPhD Candidate in Applied Computing @ National Institute for Space Research (INPE-Brazil)"
+  bio              : |+ PhD Research Fellow @ Brandeis University
+  
+  PhD Candidate in Applied Computing @ National Institute for Space Research (INPE-Brazil)
   location         : "Waltham, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
