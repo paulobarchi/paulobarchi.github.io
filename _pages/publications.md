@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-* <p> P. H. Barchi, R. R. de Carvalho, R. R. Rosa, R. Sautter, M. Soares-Santos, B. A. D. Marques, E. Clua. Machine and Deep Learning Applied to Galaxy Morphology - A Complete Classification Catalog. 2019, Submitted to MNRAS. [ <a href="https://arxiv.org/abs/1901.07047"><font color="75B9D4">arXiv</font></a> ]
+* <p> <b>P. H. Barchi</b>, R. R. de Carvalho, R. R. Rosa, R. Sautter, M. Soares-Santos, B. A. D. Marques, E. Clua. <i>Machine and Deep Learning Applied to Galaxy Morphology - A Complete Classification Catalog</i>. 2019, Submitted to MNRAS. [ <a href="https://arxiv.org/abs/1901.07047"><font color="75B9D4">arXiv</font></a> ]
+
 <!--   
 R. R. Rosa, R. R. de Carvalho, R. Sautter, P. H. Barchi, D. H. Stalder, T. C. Moura, S. B.
 Rembold, D. R. F. Morell, N. C. Ferreira. Gradient Pattern Analysis Applied to Galaxy
