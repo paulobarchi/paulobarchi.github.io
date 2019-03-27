@@ -18,7 +18,7 @@ I have been working with machine learning related topics since undergrad (starti
 
 General Research Interest
 ======
-- Applied Computer Science 
+- Applied Computing
 - Applied Machine/Deep Learning 
 - Data Science 
 - Astrophysics applications
