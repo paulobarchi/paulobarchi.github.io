@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-- PhD Research Fellow at [Brandeis University](https://www.brandeis.edu/)
-- PhD Candidate in Applied Computing at National Institute for Space Research ([INPE-Brazil](http://www.inpe.br/))
-- Currently working with Computer Science / Machine Learning applied to Astrophysics.
-- Member of Dark Energy Survey (DES) collaboration.
-- Master's and bachelor's degrees in Computer Science / Machine Learning.
+PhD Research Fellow at [Brandeis University](https://www.brandeis.edu/)
+
+PhD Candidate in Applied Computing at National Institute for Space Research ([INPE-Brazil](http://www.inpe.br/))
+
+Currently working with Computer Science / Machine Learning applied to Astrophysics.
+
+Member of Dark Energy Survey (DES) collaboration.
+
+Master's and bachelor's degrees in Computer Science / Machine Learning.
 
 General Research Interest
 ======
