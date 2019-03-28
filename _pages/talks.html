@@ -5,12 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html"><Map of all the places I've given a presentation!</a></p>
-
-{% endif %}
-
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a presentation!</a></p>
+  
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
