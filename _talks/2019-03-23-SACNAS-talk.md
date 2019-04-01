@@ -1,8 +1,8 @@
 ---
 title: "Applying Machine Learning to Galaxy Morphology"
 collection: talks
-type: "Talk"
-permalink: /talks/2019-03-23-talk
+type: "Meeting talk"
+permalink: /talks/2019-03-23-SACNAS-talk
 venue: "Brandeis University"
 date: 2019-03-23
 location: "Waltham, Massachusetts"
