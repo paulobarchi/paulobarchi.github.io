@@ -1,5 +1,5 @@
 ---
-title: "Classifying "Undefined" Galaxies from Galaxy Zoo 1 with Machine Learning Approach"
+title: "Classifying 'Undefined' Galaxies from Galaxy Zoo 1 with Machine Learning Approach"
 collection: talks
 type: "Conference poster"
 permalink: /talks/2018-08-23-WORCAP-poster
