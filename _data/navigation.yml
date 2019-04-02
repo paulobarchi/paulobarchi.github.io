@@ -12,10 +12,10 @@ main:
 #   - title: "Portfolio"
 #     url: /portfolio/
 
-###### TODO
-#   - title: "CV"
-#     url: /cv/
+  - title: "CV"
+    url: /cv/
 
+###### TODO
 #   - title: "Blog Posts"
 #     url: /year-archive/
 ######
