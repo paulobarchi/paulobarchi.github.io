@@ -51,7 +51,8 @@ Publications
 <p> <b>P. H. Barchi</b>, E. R. Hruscka Jr. <i>Two different approaches to Ontology Extension Through Machine Reading</i>. <a href="http://www.mirlabs.net/jnic/secured/Volume3-Issue1/Paper9.pdf"><font color="75B9D4">JNIC, 2015, v. 03, p. 078-087</font></a>.
   
 <p> <b>P. H. Barchi</b>, E. R. Hruscka Jr. <i>Never-Ending Ontology Extension Through Machine Reading</i>. ICHIS, 2014, page 266. <a href="https://ieeexplore.ieee.org/document/7086210?tp=&arnumber=7086210&url=http:%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7086210"><font color="75B9D4">DOI: 10.1109/HIS.2014.7086210</font></a>.
-  
+
+
 Presentations
 ======
   <ul>{% for post in site.talks %}
