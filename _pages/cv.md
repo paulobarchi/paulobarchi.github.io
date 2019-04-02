@@ -12,9 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D Research Fellow at Brandeis University (USA), 2019 (expected)
+  * Research topic: Deep learning-based morphological study of galaxy cluster members in DES
 * Ph.D in Applied Computing, National Institute for Space Research (INPE-Brazil), 2020 (expected)
+  * Research topic: Machine and deep learning applied to galaxy morphology in SDSS and DES
 * M.S. in Computer Science, Federal University of São Carlos, 2015
+  * Research topic: Never-ending ontology extension through machine reading
 * B.S. in Computer Science, Federal University of São Carlos, 2010
+  * Research topic: Alignment of graphs: investigation of alignment of ConceptNets for machine translation 
 
 
 Publications
