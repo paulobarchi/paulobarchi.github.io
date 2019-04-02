@@ -101,7 +101,7 @@ Skills
   * Spanish (basic)
 
 
-Service and leadership
+Service and volunteer
 ======
 * Active member of the Committee on Information Science and Technology of the Brazilian Astronomical Society for 3 years (2017-2019)
 * Volunteer at New England SACNAS Regional Meeting (2019)
