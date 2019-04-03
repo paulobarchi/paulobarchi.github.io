@@ -2,9 +2,9 @@
 title: "Graph Alignment: Investigating ConceptNets Alignment for Machine Translation"
 collection: talks
 type: "Workshop poster"
-permalink: /talks/2014-12-14-TILic-poster
+permalink: /talks/2009-09-09-TILic-poster
 venue: "São Paulo University (USP)"
-date: 2014-12-14
+date: 2009-09-09
 location: "São Carlos, SP, Brazil"
 ---
 
