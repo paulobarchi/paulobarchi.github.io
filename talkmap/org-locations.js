@@ -10,14 +10,24 @@ var addressPoints = [
     -46.6333824
   ], 
   [
-    "Atlanta, GA, USA", 
-    33.7490987, 
-    -84.3901849
+    "Recife, PE, Brazil", 
+    -8.0641931, 
+    -34.8781517
+  ], 
+  [
+    "S\u00e3o Carlos, SP, Brazil", 
+    -22.0183367, 
+    -47.890932
   ], 
   [
     "Waltham, MA, USA", 
     42.3756401, 
     -71.2358004
+  ], 
+  [
+    "Atlanta, GA, USA", 
+    33.7490987, 
+    -84.3901849
   ], 
   [
     "Sao Jose dos Campos, SP, Brazil", 
