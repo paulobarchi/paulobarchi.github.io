@@ -53,7 +53,7 @@ Teaching
 
 Awards and Fellowships
 ======
-* Kavli Summer Program in Astrophysics: Machine Learning in the era of large astronomical surveys, Studend Fellow, UC Santa Cruz, Santa Cruz, CA - USA (2019-2019) [[ link ]](https://kspa.soe.ucsc.edu/2019/students)
+* <p>Kavli Summer Program in Astrophysics: Machine Learning in the era of large astronomical surveys, Studend Fellow, UC Santa Cruz, Santa Cruz, CA - USA (2019-2019) [ <a href="https://kspa.soe.ucsc.edu/2019/students"><font color="75B9D4">link</font></a> ]</p>
 * CAPES International Ph.D Fellowship, Brandeis University, Waltham, MA - USA (2018-2019)
 * CAPES Ph.D Fellowship, INPE, São José dos Campos, SP - Brazil (2016-2020)
 * CNPq Master Fellowship, UFSCar, São Carlos, SP - Brazil (2012-2014)
