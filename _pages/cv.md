@@ -65,12 +65,14 @@ Publications
   
 * **P. H. Barchi**, E. R. Hruscka Jr. *Never-Ending Ontology Extension Through Machine Reading*. 2014, ICHIS, page 266. DOI: 10.1109/HIS.2014.7086210. \[ [IEEE](https://ieeexplore.ieee.org/document/7086210?tp=&arnumber=7086210&url=http:%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7086210) ]
 
-Presentations
+Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk.html %}
-  {% endfor %}</ul>
-
+* *Applying Machine Learning to Galaxy Morphology*. Brandeis University - Waltham-MA/USA, March 2019.
+* *Applying Deep Learning to Galaxy Morphology*. Georgia Tech - Atlanta-GA/USA. March 2019.
+* *Non-Parametric Galaxy Morphology and Data Mining for Separating Early from Late-Type Galaxies*. National Institute for Space Research (INPE) - São José dos Campos-SP/Brazil. November 2017.
+* *Never‐Ending Ontology Extension Through Machine Reading*. Gulf University for Science and Technology - Kuwait City/Kuwait. December 2014.
+  
+  
 Work experience
 ======
 * 2016-2016: SABER Technologies -- Information Technology Analyst
