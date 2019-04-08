@@ -37,12 +37,6 @@ Publications
   
 * **P. H. Barchi**, E. R. Hruscka Jr. *Never-Ending Ontology Extension Through Machine Reading*. 2014, ICHIS, page 266. DOI: 10.1109/HIS.2014.7086210. \[ [IEEE](https://ieeexplore.ieee.org/document/7086210?tp=&arnumber=7086210&url=http:%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7086210) ]
 
-Presentations
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk.html %}
-  {% endfor %}</ul>
-
 
 Teaching
 ======
