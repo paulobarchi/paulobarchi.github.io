@@ -23,19 +23,19 @@ Education
 
 Publications
 ======
-* <p><b>P. H. Barchi</b>, R. R. de Carvalho, R. R. Rosa, R. Sautter, M. Soares-Santos, B. A. D. Marques, E. Clua. <i>Machine and Deep Learning Applied to Galaxy Morphology - A Complete Classification Catalog</i>. 2019, Submitted to MNRAS. [ <a href="https://arxiv.org/abs/1901.07047"><font color="75B9D4">arXiv</font></a> ]</p>
+* **P. H. Barchi**, R. R. de Carvalho, R. R. Rosa, R. Sautter, M. Soares-Santos, B. A. D. Marques, E. Clua. *Machine and Deep Learning Applied to Galaxy Morphology - A Complete Classification Catalog*. 2019, Submitted to MNRAS. \[ [arXiv](https://arxiv.org/abs/1901.07047) ]
 
-* <p>R. R. Rosa, R. R. de Carvalho, R. Sautter, <b>P. H. Barchi</b>, D. H. Stalder, T. C. Moura, S. B. Rembold, D. R. F. Morell, N. C. Ferreira. <i>Gradient Pattern Analysis Applied to Galaxy Morphology</i>. 2018, MNRASL, v. 477, n. 1, p. L101-105, DOI: 10.1093/mnrasl/sly054. [ <a href="https://arxiv.org/abs/1803.10853"><font color="75B9D4">arXiv</font></a> | <a href="http://adsabs.harvard.edu/abs/2018MNRAS.477L.101R"><font color="75B9D4">ADS</font></a> ]</p>
+* R. R. Rosa, R. R. de Carvalho, R. Sautter, **P. H. Barchi**, D. H. Stalder, T. C. Moura, S. B. Rembold, D. R. F. Morell, N. C. Ferreira. *Gradient Pattern Analysis Applied to Galaxy Morphology*. 2018, MNRASL, v. 477, n. 1, p. L101-105, DOI: 10.1093/mnrasl/sly054. \[ [arXiv](https://arxiv.org/abs/1803.10853) | [ADS](http://adsabs.harvard.edu/abs/2018MNRAS.477L.101R) ]
 
-* <p><b>P. H. Barchi</b>, F. G. da Costa, R. Sautter, T. C. Moura, D. H. Stalder, R. R. Rosa, R. R. de Carvalho. <i>Improving Galaxy Morphology with Machine Learning</i>. Bulletin of the Brazilian Astronomical Society (SAB). 2018, v. 30, n. 1, p. 180-181. ISSN: 0101-3440. [ <a href="https://sab-astro.org.br/wp-content/uploads/2018/10/PauloBarchi.pdf"><font color="75B9D4">SAB - PDF</font></a> ]</p>
+* **P. H. Barchi**, F. G. da Costa, R. Sautter, T. C. Moura, D. H. Stalder, R. R. Rosa, R. R. de Carvalho. *Improving Galaxy Morphology with Machine Learning*. Bulletin of the Brazilian Astronomical Society (SAB). 2018, v. 30, n. 1, p. 180-181. ISSN: 0101-3440. \[ [SAB - PDF](https://sab-astro.org.br/wp-content/uploads/2018/10/PauloBarchi.pdf) ]
 
-* <p>R. Sautter, <b>P. H. Barchi</b>. <i>pyGHS: Computing Geometric Histogram Separation in Binomial Proportion Patterns</i>. 2017, JCIS, v. 8, issue 1, paper 121. DOI: 10.6062/jcis.2017.08.01.0121. [ <a href="http://epacis.net/jcis/10.6062jcis.2017.08.01.0121.php"><font color="75B9D4">JCIS</font></a> ]</p>
+* R. Sautter, **P. H. Barchi**. *pyGHS: Computing Geometric Histogram Separation in Binomial Proportion Patterns*. 2017, JCIS, v. 8, issue 1, paper 121. DOI: 10.6062/jcis.2017.08.01.0121. \[ [JCIS](http://epacis.net/jcis/10.6062jcis.2017.08.01.0121.php) ]
 
-* <p><b>P. H. Barchi</b>, F. G. da Costa, R. Sautter, T. C. Moura, D. H. Stalder, R. R. Rosa, R. R. de Carvalho. <i>Improving Galaxy Morphology with Machine Learning</i>. 2016, JCIS, v. 7, issue 3, paper 114. DOI: 10.6062/jcis.2016.07.03.0114. [ <a href="http://www.epacis.net/jcis/10.6062jcis.2016.07.03.0114.php"><font color="75B9D4">JCIS</font></a> ]</p>
+* **P. H. Barchi**, F. G. da Costa, R. Sautter, T. C. Moura, D. H. Stalder, R. R. Rosa, R. R. de Carvalho. *Improving Galaxy Morphology with Machine Learning*. 2016, JCIS, v. 7, issue 3, paper 114. DOI: 10.6062/jcis.2016.07.03.0114. \[ [JCIS](http://www.epacis.net/jcis/10.6062jcis.2016.07.03.0114.php) ]
 
-* <p><b>P. H. Barchi</b>, E. R. Hruscka Jr. <i>Two different approaches to Ontology Extension Through Machine Reading</i>. JNIC, 2015, v. 03, p. 078-087. [ <a href="http://www.mirlabs.net/jnic/secured/Volume3-Issue1/Paper9.pdf"><font color="75B9D4">JNIC - PDF</font></a> ]</p>
+* **P. H. Barchi**, E. R. Hruscka Jr. *Two different approaches to Ontology Extension Through Machine Reading*. JNIC, 2015, v. 03, p. 078-087. \[ [JNIC - PDF](http://www.mirlabs.net/jnic/secured/Volume3-Issue1/Paper9.pdf) ]
   
-* <p><b>P. H. Barchi</b>, E. R. Hruscka Jr. <i>Never-Ending Ontology Extension Through Machine Reading</i>. 2014, ICHIS, page 266. DOI: 10.1109/HIS.2014.7086210. [ <a href="https://ieeexplore.ieee.org/document/7086210?tp=&arnumber=7086210&url=http:%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7086210"><font color="75B9D4">IEEE</font></a> ]</p>
+* **P. H. Barchi**, E. R. Hruscka Jr. *Never-Ending Ontology Extension Through Machine Reading*. 2014, ICHIS, page 266. DOI: 10.1109/HIS.2014.7086210. \[ [IEEE](https://ieeexplore.ieee.org/document/7086210?tp=&arnumber=7086210&url=http:%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7086210) ]
 
 Presentations
 ======
@@ -53,11 +53,11 @@ Teaching
 
 Awards and Fellowships
 ======
-* <p>Kavli Summer Program in Astrophysics: Machine Learning in the era of large astronomical surveys, Studend Fellow, UC Santa Cruz, Santa Cruz, CA - USA (2019-2019) [ <a href="https://kspa.soe.ucsc.edu/2019/students"><font color="75B9D4">link</font></a> ]</p>
-* <p>CAPES International Ph.D Fellowship, Brandeis University, Waltham, MA - USA (2018-2019)</p>
-* <p>CAPES Ph.D Fellowship, INPE, São José dos Campos, SP - Brazil (2016-2020)</p>
-* <p>CNPq Master Fellowship, UFSCar, São Carlos, SP - Brazil (2012-2014)</p>
-* <p>Institutional Scientific Initiation Scholarship Program (PIBIC/CNPq), UFSCar, São Carlos, SP - Brazil</p>
+* Kavli Summer Program in Astrophysics: Machine Learning in the era of large astronomical surveys, Studend Fellow, UC Santa Cruz, Santa Cruz, CA - USA (2019-2019) \[ [link](https://kspa.soe.ucsc.edu/2019/students) ]
+* CAPES International Ph.D Fellowship, Brandeis University, Waltham, MA - USA (2018-2019)
+* CAPES Ph.D Fellowship, INPE, São José dos Campos, SP - Brazil (2016-2020)
+* CNPq Master Fellowship, UFSCar, São Carlos, SP - Brazil (2012-2014)
+* Institutional Scientific Initiation Scholarship Program (PIBIC/CNPq), UFSCar, São Carlos, SP - Brazil
 
 
 Work experience
