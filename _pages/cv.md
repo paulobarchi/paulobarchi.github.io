@@ -97,7 +97,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and volunteer
+Service
 ======
+* Article reviewer, Monthly Notices of the Royal Astronomical Society (MNRAS), reviewed a paper related to applied machine learning (2018)
 * Active member of the Committee on Information Science and Technology of the Brazilian Astronomical Society for 3 years (2017-2019)
 * Volunteer at New England SACNAS Regional Meeting (2019)
