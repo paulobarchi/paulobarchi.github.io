@@ -27,7 +27,7 @@ Skills
   * Programming Languages
   * Research Tools
   * Highlights
-    * python (focus on data science / machine learning libraries: Scikitlearn, Pandas, MatplotLib)
+    * python (focus on data science / machine learning libraries: pandas, scikit-learn, keras, matplotLib)
     * Linux - bash
     * LaTeX
     * NVIDIA Deep Learning GPU Training System (DIGITS)
