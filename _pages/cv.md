@@ -53,6 +53,8 @@ Publications
 ======
 * **P. H. Barchi**, R. R. de Carvalho, R. R. Rosa, R. Sautter, M. Soares-Santos, B. A. D. Marques, E. Clua, T. S. Gonçalves, C. de Sá Freitas, T. C. Moura. *Machine and Deep Learning Applied to Galaxy Morphology - A Comparative Study*. 2019, Submitted to Astronomy and Computing. \[ [arXiv](https://arxiv.org/abs/1901.07047) ]
 
+* R. R. Rosa, J. Neelakshi, G. A. L. L. Pinheiro, **P. H. Barchi**, E. H. Shiguemori. *Chapter 12: Modeling Social and Geopolitical Disasters as Extreme Events: A Case Study Considering the Complex Dynamics of International Armed Conflicts*. Editors: L. B. L. Santos, R. G. Negri, T. J. de Carvalho. *Book title: Towards Mathematics, Computers and Environment: A Disasters Perspective*. ISBN: 978-3-030-21205-6. Springer International Publishing, 2019. Pages 233--254. DOI: 10.1007/978-3-030-21205-6_12. \[ [Springer](https://doi.org/10.1007/978-3-030-21205-6_12) \]
+
 * R. R. Rosa, R. R. de Carvalho, R. Sautter, **P. H. Barchi**, D. H. Stalder, T. C. Moura, S. B. Rembold, D. R. F. Morell, N. C. Ferreira. *Gradient Pattern Analysis Applied to Galaxy Morphology*. 2018, MNRASL, v. 477, n. 1, p. L101-105, DOI: 10.1093/mnrasl/sly054. \[ [arXiv](https://arxiv.org/abs/1803.10853) \| [ADS](http://adsabs.harvard.edu/abs/2018MNRAS.477L.101R) ]
 
 * **P. H. Barchi**, F. G. da Costa, R. Sautter, T. C. Moura, D. H. Stalder, R. R. Rosa, R. R. de Carvalho. *Improving Galaxy Morphology with Machine Learning*. Bulletin of the Brazilian Astronomical Society (SAB). 2018, v. 30, n. 1, p. 180-181. ISSN: 0101-3440. \[ [SAB - PDF](https://sab-astro.org.br/wp-content/uploads/2018/10/PauloBarchi.pdf) ]
