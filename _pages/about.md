@@ -18,9 +18,9 @@ I have been working with machine learning related topics since undergrad (starti
 
 General Research Interest
 ======
-- Applied Computing
+- Scientific Computing
 - Applied Machine/Deep Learning 
-- Data Science 
+- Data Science
 - Astrophysics applications
 
 Current Projects
@@ -38,4 +38,4 @@ TL;DR
 ======
 - PhD candidate in Applied Computing at National Institute for Space Research (INPE - Brazil)
 - PhD fellow at Brandeis University
-- Mostly interested in applying Machine Learning and developing systems to Astrophysics
+- Mostly interested in machine learning and scientific computing applied to astrophysics
