@@ -28,6 +28,14 @@ Current Projects
 - Machine and Deep Learning Applied to Galaxy Morphology
   - Main investigation of my PhD ([arXiv](https://arxiv.org/abs/1901.07047)).
 - Gravitational Waves Detection
-  - Documentation, minor developments and improvements in the trasient detection system for gravitational waves.
+  - Documentation, minor developments and improvements in the trasient detection system for gravitational waves. Prototyping and developing novel approach for detecting the eletromagnetic counterpart of transient events.
+- Extracting the Cosmic Web Graph
+  - Working on extracting a meaninful graph from the large-scale structure of the Universe. 
 - Galaxy Clusters - Membership Assignment and Characterization
   - Documentation, minor developments and improvements in the cluster finding and characterization system.
+  
+TL;DR
+======
+- PhD candidate in Applied Computing at National Institute for Space Research (INPE - Brazil)
+- PhD fellow at Brandeis University
+- Mostly interested in applying Machine Learning and developing systems to Astrophysics
