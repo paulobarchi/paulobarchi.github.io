@@ -35,6 +35,11 @@ var addressPoints = [
     -122.0285259
   ], 
   [
+    "Santa Cruz, CA, USA", 
+    36.9749416, 
+    -122.0285259
+  ], 
+  [
     "Sao Jose dos Campos, SP, Brazil", 
     -23.1805011, 
     -45.8872969
