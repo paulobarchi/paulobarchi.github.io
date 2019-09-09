@@ -8,4 +8,4 @@ date: 2019-08-16
 location: "Santa Cruz, CA, USA"
 ---
 
-Final talk at [Kavli Summer Program in Astrophysics (2019)](https://kspa.soe.ucsc.edu/2019/) presenting first steps towards the graph extraction from the Cosmic Web using Slime Mold-based swarm intelligence.
+Final talk (≈ 30min) at [Kavli Summer Program in Astrophysics (2019)](https://kspa.soe.ucsc.edu/2019/) presenting first steps towards the graph extraction from the Cosmic Web using Slime Mold-based swarm intelligence.
