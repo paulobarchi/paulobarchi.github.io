@@ -8,4 +8,4 @@ date: 2019-08-16
 location: "Santa Cruz, CA, USA"
 ---
 
-Oral talk presenting first steps towards extracting a graph from the large-scale structure of the universe using physarum machines, in [Kavli Summer Program in Astrophysics (2019)](https://kspa.soe.ucsc.edu/2019/).
+Final talk at [Kavli Summer Program in Astrophysics (2019)](https://kspa.soe.ucsc.edu/2019/) presenting first steps towards the graph extraction from the Cosmic Web using Slime Mold-based swarm intelligence.
