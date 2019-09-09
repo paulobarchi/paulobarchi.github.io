@@ -69,6 +69,7 @@ Publications
 
 Selected Talks
 ======
+* *Extracting the Slime Mold Graph from the Cosmic Web*. Kavli Summer Program in Astrophysics. University of California, Santa Cruz - Santa Cruz-CA/USA. August 2019.
 * *Applying Machine Learning to Galaxy Morphology*. Brandeis University - Waltham-MA/USA. March 2019.
 * *Applying Deep Learning to Galaxy Morphology*. Georgia Tech - Atlanta-GA/USA. March 2019.
 * *Non-Parametric Galaxy Morphology and Data Mining for Separating Early from Late-Type Galaxies*. National Institute for Space Research (INPE) - São José dos Campos-SP/Brazil. November 2017.
