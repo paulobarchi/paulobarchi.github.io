@@ -3,7 +3,7 @@ title: "Towards the graph extraction from the Cosmic Web using Slime Mold partic
 collection: talks
 type: "Dark Universe Seminar"
 permalink: /talks/2019-08-16-KSPA-summer-talk
-venue: "University of California, Santa Cruz"
+venue: "Brandeis University"
 date: 2019-09-05
 location: "Waltham, MA, USA"
 ---
