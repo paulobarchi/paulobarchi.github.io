@@ -51,7 +51,7 @@ Awards and Fellowships
 
 Publications
 ======
-* **P. H. Barchi**, R. R. de Carvalho, R. R. Rosa, R. Sautter, M. Soares-Santos, B. A. D. Marques, E. Clua, T. S. Gonçalves, C. de Sá Freitas, T. C. Moura. *Machine and Deep Learning Applied to Galaxy Morphology - A Comparative Study*. 2019, Astronomy and Computing, in press. \[ [arXiv](https://arxiv.org/abs/1901.07047) ]
+* **P. H. Barchi**, R. R. de Carvalho, R. R. Rosa, R. Sautter, M. Soares-Santos, B. A. D. Marques, E. Clua, T. S. Gonçalves, C. de Sá Freitas, T. C. Moura. *Machine and Deep Learning Applied to Galaxy Morphology - A Comparative Study*. 2019, Astronomy and Computing, v.30, n. 100334. DOI: 10.1016/j.ascom.2019.100334. \[ [Astronomy and Computing](https://doi.org/10.1016/j.ascom.2019.100334) \| [arXiv](https://arxiv.org/abs/1901.07047) ]
 
 * R. R. Rosa, J. Neelakshi, G. A. L. L. Pinheiro, **P. H. Barchi**, E. H. Shiguemori. *Chapter 12: Modeling Social and Geopolitical Disasters as Extreme Events: A Case Study Considering the Complex Dynamics of International Armed Conflicts*. Editors: L. B. L. Santos, R. G. Negri, T. J. de Carvalho. *Book title: Towards Mathematics, Computers and Environment: A Disasters Perspective*. ISBN: 978-3-030-21205-6. Springer International Publishing, 2019. Pages 233--254. DOI: 10.1007/978-3-030-21205-6_12. \[ [Springer](https://doi.org/10.1007/978-3-030-21205-6_12) \]
 
