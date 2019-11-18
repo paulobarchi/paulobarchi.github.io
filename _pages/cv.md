@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D Research Fellow, Brandeis University (USA), 2019 (expected)
-  * Research topic: Deep learning-based morphological study of galaxy cluster members in DES
 * Ph.D in Applied Computing, National Institute for Space Research (INPE-Brazil), 2020 (expected)
   * Research topic: Machine and deep learning applied to galaxy morphology in SDSS and DES
+* Ph.D Research Fellow, Brandeis University (USA), 2019
+  * Research topic: Deep learning-based morphological study of galaxy cluster members in DES
 * M.S. in Computer Science, Federal University of São Carlos, 2015
   * Research topic: Never-ending ontology extension through machine reading
 * B.S. in Computer Science, Federal University of São Carlos, 2010
@@ -27,14 +27,14 @@ Skills
   * Programming Languages
   * Research Tools
   * Highlights
-    * python (focus on data science / machine learning libraries: pandas, scikit-learn, keras, matplotLib)
+    * python (focus on data science / machine learning libraries: pandas, scikit-learn, pytorch, tensorflow, keras, matplotLib, flask)
     * Linux - bash
     * LaTeX
     * NVIDIA Deep Learning GPU Training System (DIGITS)
-    * SQL
+    * SQL/InfluxDB
     * MPI/OpenMP
     * C/C++/C#
-    * R
+    * R 
 
 * Language
   * Portuguese (native language)
@@ -78,6 +78,10 @@ Selected Talks
   
 Work experience
 ======
+* 2019-present: Accenture -- Applied Intelligence Analyst
+  * Belo Horizonte, MG, Brazil
+  * Duties included: Computer vision development and video analytics (python, pytorch, tensorflow)
+
 * 2016-2016: SABER Technologies -- Information Technology Analyst
   * Recife, PE, Brazil
   * Duties included: Support and development in most of the company’s systems (Linux, NODE.JS)
