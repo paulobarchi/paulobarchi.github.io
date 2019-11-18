@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Paulo H. Barchi"
   avatar           : "INPE-drums.jpg"
-  bio              : "PhD Research Fellow at Brandeis University. PhD Candidate in Applied Computing at the National Institute for Space Research (INPE-Brazil). Member of the Dark Energy Survey (DES) collaboration. Master’s and bachelor’s degrees in Computer Science / Machine Learning. Currently working with Computer Science / Machine Learning applied to Astrophysics."
+  bio              : "PhD Candidate in Applied Computing at the National Institute for Space Research (INPE-Brazil). Former PhD Research Fellow at Brandeis University. Master’s and bachelor’s degrees in Computer Science / Machine Learning. Currently working with Applied Intelligence at Accenture."
 #   bio              : |+ 
 #     PhD Research Fellow @ Brandeis University
    
   
 #     PhD Candidate in Applied Computing @ National Institute for Space Research (INPE-Brazil)
-  location         : "Waltham, MA"
-  employer         :
+  location         : "Belo Horizonte, BH, Brazil"
+  employer         : "Accenture"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=OVvYtRUAAAAJ&hl=en
   email            : paulobarchi@gmail.com
