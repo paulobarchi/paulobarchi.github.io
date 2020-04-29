@@ -5,7 +5,12 @@ var addressPoints = [
     47.9735629
   ], 
   [
-    "Sao Paulo, SP, Brazil", 
+    "S\u00e3o Paulo, SP, Brazil", 
+    -23.5506507, 
+    -46.6333824
+  ], 
+  [
+    "S\u00e3o Paulo, SP, Brazil", 
     -23.5506507, 
     -46.6333824
   ], 
@@ -45,7 +50,22 @@ var addressPoints = [
     -122.0285259
   ], 
   [
-    "Sao Jose dos Campos, SP, Brazil", 
+    "S\u00e3o Jose dos Campos, SP, Brazil", 
+    -23.1805011, 
+    -45.8872969
+  ], 
+  [
+    "S\u00e3o Jose dos Campos, SP, Brazil", 
+    -23.1805011, 
+    -45.8872969
+  ], 
+  [
+    "S\u00e3o Jose dos Campos, SP, Brazil", 
+    -23.1805011, 
+    -45.8872969
+  ], 
+  [
+    "S\u00e3o Jose dos Campos, SP, Brazil", 
     -23.1805011, 
     -45.8872969
   ]
