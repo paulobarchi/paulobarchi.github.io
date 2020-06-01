@@ -9,25 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Applied Computing, National Institute for Space Research (INPE-Brazil), 2020 (expected)
-  * Research topic: Machine and deep learning applied to galaxy morphology in SDSS and DES
+## Education
+* Ph.D in Applied Computing, National Institute for Space Research (INPE-Brazil), 2020
+  * Research topic: Machine and deep learning applied to galaxy morphology
 * Ph.D Research Fellow, Brandeis University (USA), 2019
-  * Research topic: Deep learning-based morphological study of galaxy cluster members in DES
+  * Research topic: Machine learning-based methodologies for applications in astrophysics
 * M.S. in Computer Science, Federal University of São Carlos, 2015
   * Research topic: Never-ending ontology extension through machine reading
 * B.S. in Computer Science, Federal University of São Carlos, 2010
   * Research topic: Alignment of graphs: investigation of alignment of ConceptNets for machine translation 
 
-Skills
-======
+## Skills
 * Computing
   * General Applications 
   * Programming Languages
   * Research Tools
   * Highlights
-    * python (focus on data science / machine learning libraries: pandas, scikit-learn, pytorch, tensorflow, keras, matplotLib, flask)
+    * python (focus on data science / machine learning libraries: pandas, scikit-learn, tensorflow, keras, pytorch, matplotLib, flask)
     * Linux - bash
     * LaTeX
     * NVIDIA Deep Learning GPU Training System (DIGITS)
@@ -41,16 +39,14 @@ Skills
   * English (fluent)
   * Spanish (basic)
 
-Awards and Fellowships
-======
+## Awards and Fellowships
 * Kavli Summer Program in Astrophysics: Machine Learning in the era of large astronomical surveys, Studend Fellow, UC Santa Cruz, Santa Cruz, CA - USA (2019-2019) \[ [link](https://kspa.soe.ucsc.edu/2019/students) ]
 * CAPES International Ph.D Fellowship, Brandeis University, Waltham, MA - USA (2018-2019)
 * CAPES Ph.D Fellowship, INPE, São José dos Campos, SP - Brazil (2016-2020)
 * CNPq Master Fellowship, UFSCar, São Carlos, SP - Brazil (2012-2014)
 * Institutional Scientific Initiation Scholarship Program (PIBIC/CNPq), UFSCar, São Carlos, SP - Brazil
 
-Publications
-======
+## Publications
 * **P. H. Barchi**, R. R. de Carvalho, R. R. Rosa, R. Sautter, M. Soares-Santos, B. A. D. Marques, E. Clua, T. S. Gonçalves, C. de Sá Freitas, T. C. Moura. *Machine and Deep Learning Applied to Galaxy Morphology - A Comparative Study*. 2019, Astronomy and Computing, v. 30, n. 100334. DOI: 10.1016/j.ascom.2019.100334. \[ [Astronomy and Computing](https://doi.org/10.1016/j.ascom.2019.100334) \| [arXiv](https://arxiv.org/abs/1901.07047) ]
 
 * R. R. Rosa, J. Neelakshi, G. A. L. L. Pinheiro, **P. H. Barchi**, E. H. Shiguemori. *Chapter 12: Modeling Social and Geopolitical Disasters as Extreme Events: A Case Study Considering the Complex Dynamics of International Armed Conflicts*. Editors: L. B. L. Santos, R. G. Negri, T. J. de Carvalho. *Book title: Towards Mathematics, Computers and Environment: A Disasters Perspective*. ISBN: 978-3-030-21205-6. Springer International Publishing, 2019. Pages 233--254. DOI: 10.1007/978-3-030-21205-6_12. \[ [Springer](https://doi.org/10.1007/978-3-030-21205-6_12) \]
@@ -67,8 +63,8 @@ Publications
   
 * **P. H. Barchi**, E. R. Hruscka Jr. *Never-Ending Ontology Extension Through Machine Reading*. 2014, ICHIS, page 266. DOI: 10.1109/HIS.2014.7086210. \[ [IEEE](https://ieeexplore.ieee.org/document/7086210?tp=&arnumber=7086210&url=http:%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7086210) ]
 
-Selected Talks
-======
+## Selected Talks
+* *Machine Learning Applications: from Astrophysics to Industry Videos*.  National Institute for Space Research (INPE) - São José dos Campos-SP/Brazil. March 2020.
 * *Extracting the Slime Mold Graph from the Cosmic Web*. Kavli Summer Program in Astrophysics. University of California, Santa Cruz - Santa Cruz-CA/USA. August 2019.
 * *Applying Machine Learning to Galaxy Morphology*. Brandeis University - Waltham-MA/USA. March 2019.
 * *Applying Deep Learning to Galaxy Morphology*. Georgia Tech - Atlanta-GA/USA. March 2019.
@@ -76,11 +72,10 @@ Selected Talks
 * *Never‐Ending Ontology Extension Through Machine Reading*. Gulf University for Science and Technology - Kuwait City/Kuwait. December 2014.
   
   
-Work experience
-======
+## Work experience
 * 2019-present: Accenture -- Applied Intelligence Analyst
   * Belo Horizonte, MG, Brazil
-  * Duties included: Computer vision development and video analytics (python, pytorch, tensorflow)
+  * Duties included: Research, development, and innovation on computer vision and video analytics (python, tensorflow, keras, pytorch)
 
 * 2016-2016: SABER Technologies -- Information Technology Analyst
   * Recife, PE, Brazil
@@ -98,14 +93,12 @@ Work experience
   * São Carlos, SP, Brazil
   * Duties included: Support, development, test and requirements analysis in some of the company’s systems (.NET platform). The main project was a supermarket inventory management system.
 
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service
-======
+## Service
 * Article reviewer, Monthly Notices of the Royal Astronomical Society (MNRAS), reviewed a paper related to applied machine learning (2018)
 * Active member of the Committee on Information Science and Technology of the Brazilian Astronomical Society for 3 years (2017-2019)
 * Volunteer at New England SACNAS Regional Meeting (2019)
