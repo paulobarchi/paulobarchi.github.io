@@ -30,6 +30,7 @@ General Research Interest
 
 TL;DR
 ======
+- RD&I in Applied Intelligence at Accenture
 - PhD in Applied Computing at National Institute for Space Research (INPE - Brazil)
-- PhD fellow at Brandeis University
-- Mostly interested in machine learning applications and data science
+- Former PhD Research fellow at Brandeis University
+- Interested in machine learning applications and data science
