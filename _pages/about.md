@@ -10,9 +10,9 @@ redirect_from:
 
 ![research](../images/research2.jpg) <sub>Main investigation of my PhD -- Machine and Deep Learning Applied to Galaxy Morphology ([arXiv](https://arxiv.org/abs/1901.07047) | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2213133719300757)).</sub>
 
-- RD&I in Applied Intelligence at Accenture
-- PhD in Applied Computing at National Institute for Space Research (INPE - Brazil)
-- Former PhD Research fellow at Brandeis University
+- Machine Learning Engineer @ Accenture
+- PhD in Applied Computing @ National Institute for Space Research (INPE - Brazil)
+- Former PhD Research fellow @ Brandeis University
 - Interested in machine learning applications and data science
 
 About me
