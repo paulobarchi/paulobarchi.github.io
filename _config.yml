@@ -82,15 +82,8 @@ analytics:
 author:
   name             : "Paulo H. Barchi"
   avatar           : "INPE-drums.jpg"
-  bio              : "PhD in Applied Computing (INPE-Brazil). Former PhD Research Fellow at Brandeis University. Master’s and bachelor’s degrees in Computer Science / Machine Learning. Currently working with Applied Intelligence at Accenture."
-#   bio              : |+ 
-#     PhD Research Fellow @ Brandeis University
-   
-  
-#     PhD Candidate in Applied Computing @ National Institute for Space Research (INPE-Brazil)
-  location         : "Belo Horizonte, BH, Brazil"
-  employer         : "Accenture"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "PhD in Applied Computing (INPE-Brazil). Former PhD Research Fellow at Brandeis University. Master’s and bachelor’s degrees in Computer Science / Machine Learning. Currently working with Applied Intelligence at 
+  ."
   googlescholar    : https://scholar.google.com/citations?user=OVvYtRUAAAAJ&hl=en
   email            : paulobarchi@gmail.com
   researchgate     : https://www.researchgate.net/profile/Paulo_Barchi2
