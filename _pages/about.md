@@ -7,22 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Currently Senior Machine Learning @ Wildlife Studios - Core Science and Artificial Intelligence team
-- PhD in Applied Computing @ National Institute for Space Research (INPE - Brazil)
-- Former Machine Learning Engineer @ Accenture
-- Former Senior Machine Learning Engineer @ Eldorado Institute
-- Former PhD Research fellow @ Brandeis University
-- Interested in machine learning applications and data science
+
+Currently working as Senior Machine Learning Engineer at Wildlife Studios.
+
+10+ years of professional experience mixing industry and research.
+- Delivery focused working approach.
+- Ability to close gaps and connect points to arrive at the final deliverable.
+- High-level documentation and communication skills.
+- Always in touch with the client for better understanding demands and arrive at the desired goals.
+- Always interested on trending topics of state-of-the-art Machine Learning.
+
+PhD in Applied Computing at National Institute for Space Research (INPE-) - Thesis: Machine and Deep Learning applied to galaxy morphology.
+Former Ph.D. Research Fellow at the Physics Department in Brandeis University (USA).
+Master's and Bachelor's degree in Computer Science (with Artificial Intelligence focus) at Federal University of São Carlos (UFSCar-Brazil).
 
 ![research](../images/research2.jpg) <sub>Main investigation of my PhD -- Machine and Deep Learning Applied to Galaxy Morphology ([arXiv](https://arxiv.org/abs/1901.07047) | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2213133719300757)).</sub>
 
 About me
 ======
-I am currently working with RD&I in Applied Intelligence at Accenture focused on Deep Learning-based Computer Vision and Video Analytics. Day-to-day tasks:
-- Overcome challenges related to object detection, pose detection, tracking, activity recognition.
-- Contribute on developing the necessary architecture to handle data input, pre-processing, labeling, data augmentation, and analysis as well for the end-to-end software product (Test Driven Development).
-- Keep up with state-of-art literature on Deep Learning and Computer Vision;
-- Lead paper submissions for peer-reviewed events.
 
 Finished my PhD in Applied Computing at National Institute for Space Research ([INPE-Brazil](http://www.inpe.br/)) on March, 2020. Former PhD Research Fellow at the Physics Department in [Brandeis University](https://www.brandeis.edu/) supervised by Marcelle Soares-Santos. The main investigation of my PhD have been how to substantially improve galaxy morphology classification within large datasets by mimicking human classification. I combine accurate visual classifications from the Galaxy Zoo project with machine and deep learning methodologies. The main product of these years of research is a complete catalog with morphology for ≈ 670.000 galaxies from Sloan Digital Sky Survey Data Release 7 (SDSS-DR7) -– [Astronomy&Computing](https://doi.org/10.1016/j.ascom.2019.100334).
 
