@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Senior Machine Learning Engineer with 10+ years of professional experience mixing industry and research.
+Expert Machine Learning Engineer with 12+ years of professional experience mixing industry and research.
 Focused on Machine Learning-based innovation projects - experienced with video analytics, computer vision, reinforcement learning and other approaches for recommendations.
 Mostly interested in best practices and automation in Machine Learning-based projects for significant leverage in the mid/long-term. Experienced with Software Engineering in innovation projects.
 
@@ -22,4 +22,4 @@ Master's and Bachelor's degree in Computer Science (with Artificial Intelligence
 General Interest
 ======
 - Machine Learning-based systems and projects
-- Machine Learning Engineering / MLOps
+- Machine Learning Engineering
