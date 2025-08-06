@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Expert Machine Learning Engineer with 12+ years of professional experience mixing industry and research.
-Focused on Machine Learning-based innovation projects - experienced with video analytics, computer vision, reinforcement learning and other approaches for recommendations.
-Mostly interested in best practices and automation in Machine Learning-based projects for significant leverage in the mid/long-term. Experienced with Software Engineering in innovation projects.
+Software Engineer (ML/Data) with 15+ years of professional experience mixing industry and research.
+Focused on data-heavy innovation projects - experienced with video analytics, computer vision, reinforcement learning, recommendations, search and logistics.
+Mostly interested in best practices and automation in Big Data projects for significant leverage in the mid/long-term. Experienced with Software Engineering in innovation projects.
 
 PhD in Applied Computing - National Institute for Space Research (INPE) - Thesis: Machine and Deep Learning applied to galaxy morphology.
 Former PhD Research Fellow at the Physics Department in Brandeis University (USA).
