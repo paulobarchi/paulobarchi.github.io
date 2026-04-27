@@ -1,0 +1,48 @@
+baseURL: "https://paulobarchi.github.io/"
+title: "Paulo H. Barchi"
+theme: PaperMod
+paginate: 10
+enableRobotsTXT: true
+
+taxonomies:
+  tag: tags
+  category: categories
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  homeInfoParams:
+    Title: "Paulo H. Barchi"
+    Content: |
+      <img src="images/profile.jpg" alt="Paulo Barchi" style="width: 150px; height: 150px; border-radius: 50%; float: left; margin: 0 20px 20px 0;">
+      
+      I'm a computer scientist bridging research and industrial software engineering scale for 15+ years. 
+      <br>
+      In this blog, I share thoughts about technology and broader topics. Let me know what you think! 😄
+  
+  socialIcons:
+    - name: github
+      url: "https://github.com/paulobarchi"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/paulobarchi"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=OVvYtRUAAAAJ&hl=en"
+    - name: email
+      url: "mailto:paulobarchi@gmail.com"
+
+  showReadingTime: true
+  showShareButtons: false
+  showPostNavLinks: true
+  showToc: true
+
+menu:
+  main:
+    - name: Blog
+      url: /posts/
+      weight: 1
+    - name: Tags
+      url: /tags/
+      weight: 3
