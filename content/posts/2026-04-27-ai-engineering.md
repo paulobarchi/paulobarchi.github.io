@@ -1,12 +1,12 @@
 ---
-title: "AI Engineering: A Comprehensive Study Guide"
+title: "AI Engineering: A Study Guide"
 date: 2026-04-27
 draft: false
 tags: ["AI Engineering", "LLM", "System Design", "MLOps", "Agents"]
-summary: "A high-level reference for AI Engineering, covering RAG, Agentic Systems, MCP, Evaluation Harnesses, and Production Prompt Engineering."
+summary: "A quick reference for AI Engineering, covering RAG, Agentic Systems, MCP, Evaluation Harnesses, and Production Prompt Engineering."
 ---
 
-This guide provides a structured reference for AI Engineering, focusing on foundations, architecture patterns, and production-grade systems. It is intended for engineers working at a staff level to design and maintain robust AI-powered applications.
+This guide provides a structured quick reference for AI Engineering, focusing on foundations, architecture patterns, and production-grade systems. It is intended for engineers interested in designing and maintaining robust AI-powered applications. The main reference for this guide is the book "AI Engineering" from Chip Huyen.
 
 ---
 

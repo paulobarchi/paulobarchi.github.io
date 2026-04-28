@@ -1,7 +1,7 @@
 ---
 title: "Six Perspectives on the Ocean of Consciousness"
 date: 2026-04-24
-draft: false
+draft: true
 tags: ["Consciousness", "My Big TOE", "Tom Campbell", "David Lynch", "Nikola Tesla", "Carl Jung", "Philosophy"]
 summary: "Matter emerges from consciousness, not the other way around: exploring six different perspectives."
 ---

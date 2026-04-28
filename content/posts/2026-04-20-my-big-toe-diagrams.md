@@ -34,9 +34,11 @@ Reality is a nested structure where each level is a subset of the one above it.
 
 > **NOTE:** PMR is inside NPMR, which is inside AUM/LCS. AUO is not a level; it is what AUM was before evolution.
 
-1.  **AUM / LCS:** The operating environment for all that exists.
-2.  **NPMR (Non-Physical Matter Reality):** The "larger" non-physical space containing various environments (including between-life states).
-3.  **PMR (Physical Matter Reality):** Our universe, the most constrained level, providing the "evolutionary friction" that drives growth.
+The hierarchy consists of three nested levels:
+
+1.  **AUM / LCS (Larger Consciousness System):** The totality of conscious existence. It contains all realities as sub-systems, with no space or time at this level.
+2.  **NPMR (Non-Physical Matter Reality):** Comprises non-physical levels such as OBE environments, between-life states, and entity realms. It has more degrees of freedom than PMR.
+3.  **PMR (Physical Matter Reality):** Our physical universe. It is the most constrained level, providing the "evolutionary friction" optimal for consciousness growth.
 
 ### Diagram 3: The IUC — Soul, Avatar & Multiple Lifetimes
 *How the soul persists across physical incarnations*
