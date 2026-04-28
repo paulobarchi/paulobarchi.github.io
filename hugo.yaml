@@ -36,6 +36,7 @@ params:
   showShareButtons: false
   showPostNavLinks: true
   showToc: true
+  comments: true
 
 menu:
   main:

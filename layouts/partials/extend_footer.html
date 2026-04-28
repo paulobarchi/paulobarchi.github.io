@@ -1,0 +1,36 @@
+{{- /* Footer custom content area start */ -}}
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const counts = document.querySelectorAll('.view-count');
+        const namespace = "paulobarchi-github-io";
+        
+        counts.forEach(el => {
+            const id = el.getAttribute('data-id');
+            const shouldIncrement = el.getAttribute('data-increment') === 'true';
+            
+            // CounterAPI Requirements:
+            // 1. To increment: /v1/namespace/key/up (no trailing slash)
+            // 2. To get: /v1/namespace/key/ (trailing slash required)
+            const url = shouldIncrement && counts.length === 1
+                ? `https://api.counterapi.dev/v1/${namespace}/${id}/up`
+                : `https://api.counterapi.dev/v1/${namespace}/${id}/`;
+            
+            fetch(url, { cache: "no-store" })
+                .then(res => {
+                    if (res.status === 404) return { count: 0 }; // Handle new/unvisited posts
+                    if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+                    return res.json();
+                })
+                .then(data => {
+                    if (data && data.count !== undefined) {
+                        el.innerText = data.count.toLocaleString();
+                    }
+                })
+                .catch(err => {
+                    console.warn(`CounterAPI (${id}):`, err);
+                    if (el.innerText === "...") el.innerText = "0";
+                });
+        });
+    });
+</script>
+{{- /* Footer custom content area end */ -}}
