@@ -19,8 +19,7 @@ params:
     Content: |
       <img src="images/profile.jpg" alt="Paulo Barchi" style="width: 150px; height: 150px; border-radius: 50%; float: left; margin: 0 20px 20px 0;">
       
-      I'm a computer scientist with 15+ years of experience bridging research and industrial software engineering scale. 
-      In this blog, I share writings   about technology and other topics. 
+      I'm a computer scientist with 15+ years of experience bridging research and industrial software engineering scale (see <a href="/professional/">Professional</a> for more). Wecome to my blog! 
   
   socialIcons:
     - name: github
@@ -43,6 +42,9 @@ menu:
     - name: Blog
       url: /posts/
       weight: 1
+    - name: Professional
+      url: /professional/
+      weight: 2
     - name: Tags
       url: /tags/
       weight: 3

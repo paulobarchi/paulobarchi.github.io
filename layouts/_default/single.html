@@ -43,7 +43,7 @@
   {{- end }}
 
   {{- /* Reactions Section */ -}}
-  {{- if .IsPage }}
+  {{- if and .IsPage (not .Params.disableReactions) }}
     {{- partial "reactions.html" . }}
   {{- end }}
 
