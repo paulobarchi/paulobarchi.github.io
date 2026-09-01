@@ -19,6 +19,6 @@ While working on my Master's qualification text (2013), I included a brief intro
 >
 > In recent decades, ontology has become a topic of interest in computer science. It represents an engineering artifact consisting of a specific vocabulary used to describe a certain reality, plus a set of assumptions about the intended meaning of that vocabulary. This vocabulary is represented as unary and binary predicates, called concepts and relations, respectively. Visually, concepts are nodes, and relations connect these nodes (as edges or links).
 >
-> This is the structure used to represent the NELL's knowledge base for never-ending language learning, which my this work aims to expand.
+> This is the structure used to represent the NELL's knowledge base for never-ending language learning, which this work aims to expand.
 >
 > ...
