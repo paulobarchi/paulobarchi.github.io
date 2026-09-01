@@ -18,15 +18,6 @@
 {{- end }}
 {{- end }}
 
-{{- /* Precise View Tracking */ -}}
-{{- if .File -}}
-{{- $pageId := .File.UniqueID -}}
-{{- /* We only increment if this is the actual single post page */ -}}
-{{- $shouldIncrement := "false" -}}
-{{- if .IsPage -}}{{- if not .IsHome -}}{{- if .IsNode | not -}}{{- $shouldIncrement = "true" -}}{{- end -}}{{- end -}}{{- end -}}
-{{- $scratch.Add "meta" (slice (printf "<span><span class='view-count' data-id='%s' data-increment='%v'>...</span> views</span>" $pageId $shouldIncrement)) }}
-{{- end -}}
-
 {{- with ($scratch.Get "meta") }}
 {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
 {{- end -}}
