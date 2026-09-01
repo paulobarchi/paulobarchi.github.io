@@ -1,5 +1,5 @@
 ---
-title: "AI Engineering: A Study Guide"
+title: "AI Engineering: a study guide"
 date: 2026-04-27
 draft: false
 tags: ["AI Engineering", "LLM", "System Design", "MLOps", "Agents"]

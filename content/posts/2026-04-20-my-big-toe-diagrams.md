@@ -1,5 +1,5 @@
 ---
-title: "My Big TOE: 12 Core Diagrams"
+title: "My Big TOE: 12 core diagrams"
 date: 2026-04-20
 draft: false
 tags: ["Consciousness", "My Big TOE", "Tom Campbell", "Philosophy", "Physics"]
