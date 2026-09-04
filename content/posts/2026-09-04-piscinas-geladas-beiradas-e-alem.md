@@ -5,6 +5,9 @@ draft: false
 tags: ["Filosofia", "Crônica", "Metáfora"]
 summary: "Uma crônica metafórica que escrevi em Julho/2015."
 ShowToc: false
+build:
+  list: never
+  render: always
 ---
 
 <div class="language-toggle" style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; margin: 0 0 30px 0; padding: 10px 14px; background: var(--code-bg); border: 1px solid var(--border); border-radius: 8px; font-size: 0.85em; font-family: inherit;">

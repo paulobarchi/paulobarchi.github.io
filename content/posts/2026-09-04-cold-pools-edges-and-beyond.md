@@ -3,7 +3,7 @@ title: "Cold Pools, Edges, and Beyond"
 date: 2026-09-04
 draft: false
 tags: ["Philosophy", "Chronicle", "Metaphor"]
-summary: "A metaphoric chronicle I wrote on July/2015."
+summary: "A metaphoric chronicle I wrote on July/2015 (EN | PT-BR)."
 ShowToc: false
 ---
 
